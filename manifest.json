@@ -1,5 +1,5 @@
 {
-  "short_name": "React PWA",
+  "short_name": "PWA",
   "name": "Serverless React PWA on AWS",
   "icons": [
     {
@@ -15,7 +15,7 @@
   ],
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#333333",
+  "background_color": "#343634",
   "scope": "/",
-  "theme_color": "#333333"
+  "theme_color": "#343634"
 }
