@@ -1,0 +1,17 @@
+{
+  "extends": ["tslint:latest", "tslint-react"],
+  "rules": {
+    "curly": [true, "ignore-same-line"],
+    "jsx-boolean-value": false,
+    "member-access": [true, "no-public"],
+    "no-console": false,
+    "no-implicit-dependencies": [true, "dev"],
+    "ordered-imports": [true,
+      {
+        "named-imports-order": "lowercase-first"
+      }
+    ],
+    "semicolon": [true, "never"],
+    "trailing-comma": false
+  }
+}

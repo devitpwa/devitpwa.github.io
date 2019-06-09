@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "charset": "utf8",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "noImplicitUseStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "removeComments": true,
+    "sourceMap": false,
+    "strictNullChecks": true,
+    "target": "es2017"
+  },
+  "include": [
+    "api/**/*",
+    "pwa/**/*"
+  ]
+}
